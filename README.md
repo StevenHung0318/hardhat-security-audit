@@ -113,8 +113,8 @@ PRs welcome to improve the list.
 ## Quickstart
 
 ```
-git clone https://github.com/StevenHung0318/hardhat-security
-cd hardhat-security
+git clone https://github.com/StevenHung0318/hardhat-security-audit
+cd hardhat-security-audit
 yarn set version 1.22.19   # can skip if your default version is already 1.x.x
 yarn
 install python3
